@@ -64,7 +64,7 @@ export const PORTFOLIO = [
   {
     title: "ポートフォリオサイト",
     link: "#",
-    img: "../../assets/images/site-01.png",
+    img: "../../public/assets/images/site-01.png",
     comment: "Reactを使った自己紹介サイトです。",
   },
   {
